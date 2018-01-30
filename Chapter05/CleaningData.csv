@@ -1,0 +1,13 @@
+name;gender;age;right;wrong
+Emma;F;24;80;20
+Liam;M;-19;.;47
+Olivia;;32;75;25
+Noah;M;15;60;40
+Ava;F;18;45;55
+Mason;M;21;54;46
+Isabella;F;28;-19;85
+Lucas;M;30;13;87
+Sophia;F;26;NaN;30
+Elijah;M;100;98;2
+Mia;F;22;5;95
+Oliver;M;NA;NaN;21
