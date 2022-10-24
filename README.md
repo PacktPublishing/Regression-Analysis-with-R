@@ -28,3 +28,7 @@ This book is focused on regression analysis in an R environment. We have used R 
 * [Connect the Dots: Linear and Logistic Regression [Video]](https://www.packtpub.com/application-development/connect-dots-linear-and-logistic-regression-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991957)
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788627306">https://packt.link/free-ebook/9781788627306 </a> </p>
